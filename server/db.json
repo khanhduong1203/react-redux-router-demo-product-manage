@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nokia 6.1 Plus",
+      "price": 3490,
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Huawei M8",
+      "price": 15165,
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Xiaomi Redmi Note 6",
+      "price": 6666,
+      "status": false
+    },
+    {
+      "id": 5,
+      "name": "Oppo F1S",
+      "price": 8990,
+      "status": false
+    }
+  ]
+}
